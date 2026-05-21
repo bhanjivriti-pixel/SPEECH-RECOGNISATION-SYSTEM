@@ -157,3 +157,7 @@ Developed using Python, this project helps users interact with systems more easi
 It reduces manual typing, saves time, and improves accessibility.
 
 The project demonstrates the growing importance of voice-based technology in modern applications and provides a strong foundation for future AI-based developments.
+
+#OUTPUT
+
+<img width="693" height="56" alt="Image" src="https://github.com/user-attachments/assets/b220781d-6dcf-440a-a8b4-c96adb92c34f" />
